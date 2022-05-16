@@ -4,12 +4,10 @@ import 'package:flutter/material.dart';
 //F2
 
 //O2
-<<<<<<< HEAD
 
 //O3
-=======
 //F3
->>>>>>> origin/main
+//O4
 void main() {
   runApp(const MyApp());
 }
